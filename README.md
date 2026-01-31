@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">tokentap</h1>
+  <h1 align="center">Tokentap (formerly Sherlock)</h1>
   <p align="center">
     <strong>Token Tracker for LLM CLI Tools</strong>
   </p>
@@ -34,7 +34,7 @@ tokentap tracks token usage for LLM CLI tools with a live terminal dashboard. Se
 ## Installation
 
 ```bash
-pip install tokentap
+pip install tokentap (We are working on this one)
 ```
 
 Or install from source:
